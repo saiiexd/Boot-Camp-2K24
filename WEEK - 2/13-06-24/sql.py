@@ -3,9 +3,9 @@ import mysql.connector
 # Establishing a connection to MySQL
 try:
     connection = mysql.connector.connect(
-        host="localhost",
-        user="your_username",
-        password="your_password",
+        host="SaiVenkat",
+        user="mysql.infoschema",
+        password="saivenkat1432",
         database="testdb"  
     )
 
