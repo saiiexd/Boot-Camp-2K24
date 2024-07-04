@@ -2,7 +2,7 @@
 
 Hey there! Welcome to the Futurense Bootcamp Daily Practice Repository! I'm excited to have you here as we dive into daily coding challenges and exercises to sharpen our skills in Git, GitHub, Python, Tkinter, SQL, and more. 🌟
 
-## About FutureNSE 🌐
+## About Futurense 🌐
 
 Futurense is an amazing company that I'm collaborating with for this bootcamp. Together, we're on a mission to empower learners like you with hands-on experience and practical knowledge in data science and technology.
 
