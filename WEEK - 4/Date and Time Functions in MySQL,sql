@@ -1,0 +1,14 @@
+-- CURDATE(): Returns the current date
+SELECT CURDATE();
+
+-- NOW(): Returns the current date and time
+SELECT NOW();
+
+-- DATE_ADD(): Adds a time/date interval to a date
+SELECT DATE_ADD(CURDATE(), INTERVAL 7 DAY) AS NextWeek;
+
+-- DATE_SUB(): Subtracts a time/date interval from a date
+SELECT DATE_SUB(CURDATE(), INTERVAL 1 MONTH) AS LastMonth;
+
+-- DATE_FORMAT(): Formats a date
+SELECT DATE_FORMAT(NOW(), '%Y-%m-%d %H:%i:%s') AS FormattedDateTime;
