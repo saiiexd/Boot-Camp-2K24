@@ -24,8 +24,8 @@ I encourage you to actively participate by:
 - Sharing your insights, tips, and tricks related to the topics.
 - Collaborating with fellow learners and providing constructive feedback.
 
-Together, let's code, learn, and grow to new heights! 💻✨
+Together, let's code, learn, and grow to new heights!
 
-Happy coding, and let's make every day count in this exciting journey! 🚀
+Happy coding, and let's make every day count in this exciting journey! 
 
 ---
